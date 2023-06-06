@@ -1,0 +1,9 @@
+{
+  "name": "napalm",
+  "localizedName": "napalm",
+  "author": "NemesisTheory",
+  "description": "texture pack/sprite override",
+  "version": 0.1,
+  "minGameVersion": 140,
+  "hidden": true,
+}
