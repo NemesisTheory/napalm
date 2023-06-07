@@ -1,2 +1,2 @@
-require("graphics/pal")
+require("graphics/Pal")
 require("units/units")
